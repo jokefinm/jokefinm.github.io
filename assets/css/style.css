@@ -34,9 +34,10 @@
     color: #fff;
 }
 /* end jumbotron */
+
 /* colom and card */
 .card{
-    style="width: 18rem; margin:auto;"
+    width: 18rem; margin:auto;
 }
 
 .card-img-top{
